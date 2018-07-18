@@ -188,7 +188,6 @@ target
     About
 
 Press h to open a hovercard with more details.
-build.sbt
 project/target/
 buil/
 src/
