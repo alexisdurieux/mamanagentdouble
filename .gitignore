@@ -1,0 +1,194 @@
+
+342c113 7 days ago
+180 lines (174 sloc) 1.95 KB
+*~
+bidding-memdb1-catalog.jar
+bin
+bin/
+/.cache
+.cache
+.cache/
+catalog.jar
+catalog-report.html
+*.class
+/.classpath
+.classpath
+core-services/schema.log
+.coursier
+.coursier/
+datanucleus.log
+dist
+dist/*
+.ensime
+.ensime_cache
+.gwt
+.gwt-log
+.history
+.history/
+*.class
+*.dot
+/.classpath
+.classpath
+*.class
+/.classpath
+.classpath
+datanucleus.log
+dist
+.gwt
+.gwt-log
+.history
+/.idea
+.idea
+.idea/
+/.idea_modules
+.idea_modules
+.idea_modules/
+idea.sbt
+/*.iml
+*.iml
+**/*.iml
+*.ipr
+.ivy2
+.ivy2/
+*.iws
+.lib/
+lib_managed/
+.log
+*.log
+log/
+log.roo
+logs
+/*.iml
+*.iml
+*.ipr
+*.iws
+.log
+log.roo
+logs
+node_modules
+/out
+/.project
+.project
+project/boot/
+project/plugins/project/
+project/project
+project/target
+result
+/RUNNING_PID
+.sbt
+.sbt/
+sbtix.nix
+.sbtopts
+.scala_dependencies
+schema.log
+/*.iml
+*.iml
+*.ipr
+*.iws
+.log
+log.roo
+logs
+/out
+/.project
+.project
+project/project
+project/target
+/RUNNING_PID
+.scala_dependencies
+/.settings
+.settings
+.springBeans
+src/main/webapp/WEB-INF/lib
+src_managed/
+.staging
+statement-plans/
+*.swo
+*.swp
+target
+/.target
+/.target/
+target/
+tmp
+tomcat
+user-agent-parser/src/it/resources/
+voltdbroot/
+.vscode
+.worksheet
+.wtpmodules
+target
+/.target
+/.target/
+tmp
+tomcat
+.wtpmodules
+npm-debug.log
+
+*.class
+*.log
+
+# sbt specific
+.cache/
+.history/
+.lib/
+*.class
+*.log
+voltdbroot
+log/
+
+# sbt specific
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+*.iml
+.idea/
+.idea_modules/
+target
+
+.idea
+logs
+target
+*.iml
+target
+/.target
+/.target/
+tmp
+tomcat
+.wtpmodules
+*.iml
+.idea
+.idea/
+logs
+target
+/.idea
+/.idea_modules
+/.classpathtarget/
+/.project
+/.settings
+/RUNNING_PID
+
+    © 2018 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    API
+    Training
+    Shop
+    Blog
+    About
+
+Press h to open a hovercard with more details.
+build.sbt
+project/target/
+buil/
+src/
